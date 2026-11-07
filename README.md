@@ -18,4 +18,11 @@ Install Tailscale on both computers and Git on the remote host for source contro
 
 Each release includes a host binary and a SHA-256 checksum for each platform. Use the release selected by the desktop app to keep host protocols compatible.
 
-This repository distributes compiled installers and checksums only. Application source is maintained separately.
+This repository distributes compiled installers, checksums, and public privacy/support documentation. Application source is maintained separately.
+
+## Privacy and support
+
+- [Privacy policy](https://mikepace-projects.github.io/Horizon-Host/privacy/)
+- [Support and contact](https://mikepace-projects.github.io/Horizon-Host/support/)
+- [Privacy policy source](docs/privacy.md)
+- Contact: [growth@signalrankmedia.com](mailto:growth@signalrankmedia.com)
